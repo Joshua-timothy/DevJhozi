@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h4 align="center">A passionate frontend developer from Nigeria, With a Passion Of Succeeding In My Career, Eagerly Thriving For Success In The Tech Industry, a Developer That Would Go Above And Beyond What Is Expected And Put Myself Forward For Every Opportunity.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjhozi&label=Profile%20views&color=0e75b6&style=flat" alt="devjhozi" /> </p>
 
