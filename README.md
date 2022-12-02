@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, JavaScript, React, Redux, Nodejs.**
 
-- 👨‍💻 All of my projects are available at [DevJhozi.github.io](DevJhozi.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/DevJhozi]
 
 - 💬 Ask me about **HTML & CSS.**
 
