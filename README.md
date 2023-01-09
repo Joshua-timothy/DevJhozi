@@ -22,6 +22,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevJhozi&icon=7&color=3)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=DevJhozi&label=Profile%20Views&color=9&icon=5&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
