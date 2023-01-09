@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjhozi&label=Profile%20views&color=0e75b6&style=flat" alt="devjhozi" /> </p>
 
+<p align="left"> <a href="https://twitter.com/jhozikay" target="blank"><img src="https://img.shields.io/twitter/follow/jhozikay?logo=twitter&style=for-the-badge" alt="jhozikay" /></a> </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joshua-timothy-6759a0253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JhoziKay) 
 
