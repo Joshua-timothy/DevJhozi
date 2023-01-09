@@ -1,6 +1,7 @@
 # 💫 About Me:
  I'm a Front-End Developer with a strong drive to improve my skills and work on meaningful projects.  I'm always looking for new challenges and opportunities to grow.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devjhozi&label=Profile%20views&color=0e75b6&style=flat" alt="devjhozi" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joshua-timothy-6759a0253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JhoziKay) 
@@ -22,8 +23,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=DevJhozi&label=Profile%20Views&color=9&icon=5&pretty=true" />
-</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
