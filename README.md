@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💬 About Me:
  I'm a Front-End Developer with a strong drive to improve my skills and work on meaningful projects.  I'm always looking for new challenges and opportunities to grow.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjhozi&label=Profile%20views&color=0e75b6&style=flat" alt="devjhozi" /> </p>
@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://twitter.com/jhozikay" target="blank"><img src="https://img.shields.io/twitter/follow/jhozikay?logo=twitter&style=for-the-badge" alt="jhozikay" /></a> </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joshua-timothy-6759a0253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JhoziKay) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joshua-timothy-6759a0253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JhoziKay) [![Reddit](https://img.shields.io/badge/Reddit-%231DA1F2.svg?logo=Reddit&logoColor=white)](https://Reddit.com/JhoziKay) 
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
@@ -17,12 +18,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DevJhozi&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=JhoziKay)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
 
